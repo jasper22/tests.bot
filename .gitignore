@@ -41,6 +41,11 @@ go.work
 !README.md
 !LICENSE
 
+# !Makefile
+
+# ...even if they are in subdirectories
+!*/
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
