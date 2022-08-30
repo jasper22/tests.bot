@@ -463,3 +463,5 @@ FodyWeavers.xsd
 # Custom ignore
 
 server.exe
+cmd/api/proto/test-bot.protocol_grpc.pb.go
+cmd/api/proto/test-bot.protocol.pb.go
